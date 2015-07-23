@@ -1,2 +1,2 @@
 # TestGitHub1
-GitHub tutorial
+TestGitHub is repository for showing the base minimum of github and how to menuever, function,etc...
